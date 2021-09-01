@@ -1,2 +1,2 @@
-# hello-world
-"Hello world"
+# hello-python
+"Hello world" system in python language for practice.
